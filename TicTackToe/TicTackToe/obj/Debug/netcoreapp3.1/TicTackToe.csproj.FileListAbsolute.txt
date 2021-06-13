@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\TicTackToe\TicTackToe\bin\Debug\netcoreapp3.1\TicTackToe.exe
+C:\Users\Student\source\repos\TicTackToe\TicTackToe\bin\Debug\netcoreapp3.1\TicTackToe.deps.json
+C:\Users\Student\source\repos\TicTackToe\TicTackToe\bin\Debug\netcoreapp3.1\TicTackToe.runtimeconfig.json
+C:\Users\Student\source\repos\TicTackToe\TicTackToe\bin\Debug\netcoreapp3.1\TicTackToe.runtimeconfig.dev.json
+C:\Users\Student\source\repos\TicTackToe\TicTackToe\bin\Debug\netcoreapp3.1\TicTackToe.dll
+C:\Users\Student\source\repos\TicTackToe\TicTackToe\bin\Debug\netcoreapp3.1\TicTackToe.pdb
+C:\Users\Student\source\repos\TicTackToe\TicTackToe\obj\Debug\netcoreapp3.1\TicTackToe.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\TicTackToe\TicTackToe\obj\Debug\netcoreapp3.1\TicTackToe.Form1.resources
+C:\Users\Student\source\repos\TicTackToe\TicTackToe\obj\Debug\netcoreapp3.1\TicTackToe.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\TicTackToe\TicTackToe\obj\Debug\netcoreapp3.1\TicTackToe.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\TicTackToe\TicTackToe\obj\Debug\netcoreapp3.1\TicTackToe.AssemblyInfo.cs
+C:\Users\Student\source\repos\TicTackToe\TicTackToe\obj\Debug\netcoreapp3.1\TicTackToe.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\TicTackToe\TicTackToe\obj\Debug\netcoreapp3.1\TicTackToe.dll
+C:\Users\Student\source\repos\TicTackToe\TicTackToe\obj\Debug\netcoreapp3.1\TicTackToe.pdb
+C:\Users\Student\source\repos\TicTackToe\TicTackToe\obj\Debug\netcoreapp3.1\TicTackToe.genruntimeconfig.cache
+C:\Users\Student\source\repos\TicTackToe\TicTackToe\obj\Debug\netcoreapp3.1\TicTackToe.Properties.Resources.resources
