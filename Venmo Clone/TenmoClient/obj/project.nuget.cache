@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hrNN/JoohI1+JG9igdhOJ0a5wSm0RhJZded/pRaDKNrvNTiqLQnXnTBfkrkxYSdwBfrXyNqIj5IF9Rv5pWVu5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\Desktop\\Other Repository\\Venmo Clone\\TenmoClient\\TenmoClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}
